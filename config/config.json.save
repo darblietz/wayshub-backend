@@ -1,9 +1,9 @@
 {
-  "development": {
+103.117.56.28  "development": {
     "username": "rommel",
     "password": "password",
     "database": "db-wayshub",
-    "host": "103.117.56.28",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
