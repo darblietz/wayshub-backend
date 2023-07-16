@@ -1,5 +1,5 @@
 def branch = "main"
-def repo = "git@github.com:darblietz/wayshub-backend.git"
+def repo = "https://github.com/darblietz/wayshub-backend.git"
 def cred = "wayshub-rommel"
 def dir = "~/wayshub-frontend"
 def server = "rommel@103.117.56.28"
